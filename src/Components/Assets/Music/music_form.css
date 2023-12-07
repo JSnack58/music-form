@@ -1,0 +1,28 @@
+
+.Tracks_container{
+  width: 40%;  
+}
+.text_inputs{
+  width: 20%;
+}
+.Genres{
+  display: flex;
+  flex: auto;
+}
+.Genre_drop{
+  display: inline-flex;
+  flex: auto;
+  max-width: 30%;
+}
+.Label{
+  display: flex;
+  flex: auto;
+  /* padding: 20px 20px; */
+}
+.Buttons{
+  display: flex;
+}
+.child-button{
+  display: flex;
+  flex: auto;
+}
